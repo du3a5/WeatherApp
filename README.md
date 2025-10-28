@@ -1,4 +1,4 @@
-<img width="1433" height="828" alt="Weather app" src="https://github.com/user-attachments/assets/3bdd336c-b08a-4ce7-8cd2-9aea8bc1c624" /># 🌦️ Weather App
+# 🌦️ Weather App
 
 A simple and elegant weather web application built with **JavaScript**, **HTML**, and **CSS**.  
 The app automatically detects your location or allows you to search for any city worldwide.  
@@ -22,7 +22,12 @@ with a dynamic background that changes based on the current weather.
 
 ## 💻 Demo
 You can try the live version here:  
-👉  https://du3a5.github.io/
+👉  [https://du3a5.github.io/](https://du3a5.github.io/WeatherApp/)
+
+----
+
+## 📸 Screenshot
+<img width="1433" height="828" alt="Weather app" src="https://github.com/user-attachments/assets/3bdd336c-b08a-4ce7-8cd2-9aea8bc1c624" />
 
 ----
 
